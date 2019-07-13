@@ -1,0 +1,14 @@
+C:\Users\neven\source\repos\Blockchain2\Blockchain2\bin\Debug\Blockchain2.exe.config
+C:\Users\neven\source\repos\Blockchain2\Blockchain2\bin\Debug\Blockchain2.exe
+C:\Users\neven\source\repos\Blockchain2\Blockchain2\bin\Debug\Blockchain2.pdb
+C:\Users\neven\source\repos\Blockchain2\Blockchain2\obj\Debug\Blockchain2.csprojAssemblyReference.cache
+C:\Users\neven\source\repos\Blockchain2\Blockchain2\obj\Debug\Blockchain2.Form1.resources
+C:\Users\neven\source\repos\Blockchain2\Blockchain2\obj\Debug\Blockchain2.Properties.Resources.resources
+C:\Users\neven\source\repos\Blockchain2\Blockchain2\obj\Debug\Blockchain2.csproj.GenerateResource.cache
+C:\Users\neven\source\repos\Blockchain2\Blockchain2\obj\Debug\Blockchain2.csproj.CoreCompileInputs.cache
+C:\Users\neven\source\repos\Blockchain2\Blockchain2\obj\Debug\Blockchain2.exe
+C:\Users\neven\source\repos\Blockchain2\Blockchain2\obj\Debug\Blockchain2.pdb
+C:\Users\neven\source\repos\Blockchain2\Blockchain2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\neven\source\repos\Blockchain2\Blockchain2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\neven\source\repos\Blockchain2\Blockchain2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\neven\source\repos\Blockchain2\Blockchain2\obj\Debug\Blockchain2.csproj.CopyComplete
